@@ -1,0 +1,10 @@
+C:\Users\JZamora\Documents\Visual Studio 2019\SisVentas\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\JZamora\Documents\Visual Studio 2019\SisVentas\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\JZamora\Documents\Visual Studio 2019\SisVentas\CapaNegocio\bin\Release\CapaDatos.dll
+C:\Users\JZamora\Documents\Visual Studio 2019\SisVentas\CapaNegocio\bin\Release\CapaDatos.pdb
+C:\Users\JZamora\Documents\Visual Studio 2019\SisVentas\CapaNegocio\bin\Release\CapaDatos.dll.config
+C:\Users\JZamora\Documents\Visual Studio 2019\SisVentas\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\JZamora\Documents\Visual Studio 2019\SisVentas\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\JZamora\Documents\Visual Studio 2019\SisVentas\CapaNegocio\obj\Release\CapaNegocio.csproj.CopyComplete
+C:\Users\JZamora\Documents\Visual Studio 2019\SisVentas\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\JZamora\Documents\Visual Studio 2019\SisVentas\CapaNegocio\obj\Release\CapaNegocio.pdb
